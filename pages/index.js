@@ -63,7 +63,7 @@ const Home = () => {
           Dòng sản phẩm công nghệ EXCOOL, Ra mắt Combo tiết kiệm ưu đãi tới 40%
         </p>
         <Link href="/collections">Trãi nghiệm </Link>
-        <a href="https://widget-seven-bice.vercel.app/payment?contract=0xae18f6c514a500a30eaff19f1d1b7b320986eb72&amount=123&recipient=0x4a80Ab719e0b6F6e1AB8D72dA57834E5B18B5fd5">
+        <a href="https://webpayment.weteam.network/payment?contract=0xae18f6c514a500a30eaff19f1d1b7b320986eb72&amount=123&recipient=0x4a80Ab719e0b6F6e1AB8D72dA57834E5B18B5fd5">
           Payment
         </a>
       </Div>
